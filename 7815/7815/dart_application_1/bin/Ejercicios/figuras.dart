@@ -14,7 +14,6 @@ void main() {
   double triangulo = (valor1 * valor2) / 2;
   double circulo = valor2 * (valor1 * valor1);
   double rectangulo = valor1 * valor2;
-
   bool coincide = false;
 
   if (triangulo == valor3) {

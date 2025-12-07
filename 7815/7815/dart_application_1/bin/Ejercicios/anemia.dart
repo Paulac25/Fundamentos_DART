@@ -16,7 +16,7 @@ void main() {
   double min = 0;
   double max = 0;
 
-  // Asignar rangos según la edad
+
   if (edad >= 0 && edad <= 1/12) {
     min = 13;
     max = 26;
